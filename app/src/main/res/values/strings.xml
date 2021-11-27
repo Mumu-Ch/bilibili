@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bilibili</string>
+    <string name="User">用户名</string>
+    <string name="UserName">CLT</string>
+    <string name="Password">密码</string>
+    <string name="Title">欢迎！</string>
+</resources>

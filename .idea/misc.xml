@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21041666666666667" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable/bg_login.xml" value="0.36770833333333336" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable/bg_logout.xml" value="0.21145833333333333" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable/bg_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable/bg_main_btn1.xml" value="0.20729166666666668" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable/bg_main_btn2.xml" value="0.20364583333333333" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable/bg_main_btn3.xml" value="0.20729166666666668" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable/bg_main_btn4.xml" value="0.20729166666666668" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable/bg_main_btn_2.xml" value="0.20729166666666668" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable/bg_username.xml" value="0.36770833333333336" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21041666666666667" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_function.xml" value="0.3515625" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_logout.xml" value="0.35104166666666664" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_play.xml" value="0.22" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_programming.xml" value="0.3546875" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_programming2.xml" value="0.3546875" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_programming3.xml" value="0.3546875" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_sleep.xml" value="0.35520833333333335" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_slide.xml" value="0.22" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_sport.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/activity_study.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/course_item.xml" value="0.1984375" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/layout_main.xml" value="0.19427083333333334" />
+        <entry key="..\:/AndroidTool/AndroidProject/bilibili/app/src/main/res/layout/layout_menu.xml" value="0.19427083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
